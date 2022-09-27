@@ -70,16 +70,16 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
 
   <!-- Image header -->
   <div class="w3-display-container w3-container">
-    <img src="/w3images/jeans.jpg" alt="Jeans" style="width:100%">
-    <div class="w3-display-topleft w3-text-white" style="padding:24px 48px">
+    <img src="pub1.jpg" alt="Header_image" style="width:100%">
+    <div class="w3-display-topright w3-text-black" style="padding:24px 48px">
       <h1 class="w3-jumbo w3-hide-small">Home of Magic</h1>
       <h1 class="w3-hide-large w3-hide-medium">Home of Magic</h1>
       <h1 class="w3-hide-small">SEPTEMBER OFFERS</h1>
-      <p><a href="#jeans" class="w3-button w3-black w3-padding-large w3-large">SHOP NOW</a></p>
+      <p><a href="#body" class="w3-button w3-black w3-padding-large w3-large">SHOP NOW</a></p>
     </div>
   </div>
 
-  <div class="w3-container w3-text-grey" id="jeans">
+  <div class="w3-container w3-text-grey" id="body">
     <p>Browse through our available offers</p>
   </div>
 
@@ -87,11 +87,11 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
   <div class="w3-row w3-grayscale">
     <div class="w3-col l3 s6">
       <div class="w3-container">
-        <img src="/w3images/jeans1.jpg" style="width:100%">
+        <img src="book1.jpg" style="width:100%">
         <p>Book ONE<br><b>$4.99</b></p>
       </div>
       <div class="w3-container">
-        <img src="/w3images/jeans2.jpg" style="width:100%">
+        <img src="book2.jpg" style="width:100%">
         <p>Book TWO<br><b>$3.65</b></p>
       </div>
     </div>
@@ -99,7 +99,7 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
     <div class="w3-col l3 s6">
       <div class="w3-container">
         <div class="w3-display-container">
-          <img src="/w3images/jeans2.jpg" style="width:100%">
+          <img src="book3.jpg" style="width:100%">
           <span class="w3-tag w3-display-topleft">New arrival</span>
           <div class="w3-display-middle w3-display-hover">
             <button class="w3-button w3-black">Order now<i class="fa fa-shopping-cart"></i></button>
@@ -108,7 +108,7 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
         <p>Offer ONE<br><b>$50.99 - 200.99</b></p>
       </div>
       <div class="w3-container">
-        <img src="/w3images/jeans3.jpg" style="width:100%">
+        <img src="book4.jpg" style="width:100%">
         <span class="w3-tag w3-display-topleft">New arrival</span>
           <div class="w3-display-middle w3-display-hover">
             <button class="w3-button w3-black">Order now<i class="fa fa-shopping-cart"></i></button>
@@ -119,12 +119,12 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
 
     <div class="w3-col l3 s6">
       <div class="w3-container">
-        <img src="/w3images/jeans3.jpg" style="width:100%">
+        <img src="book1.jpg" style="width:100%">
         <p>Book THREE<br><b>$2.50</b></p>
       </div>
       <div class="w3-container">
         <div class="w3-display-container">
-          <img src="/w3images/jeans4.jpg" style="width:100%">
+          <img src="book2.jpg" style="width:100%">
           <span class="w3-tag w3-display-topleft">Sold out</span>
           	<div class="w3-display-middle w3-display-hover">
             	<button class="w3-button w3-black">Buy now <i class="fa fa-shopping-cart"></i></button>
@@ -136,11 +136,11 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
 
     <div class="w3-col l3 s6">
       <div class="w3-container">
-        <img src="/w3images/jeans4.jpg" style="width:100%">
+        <img src="book3.jpg" style="width:100%">
         <p>Academic writing 1<br><b>$10.99</b></p>
       </div>
       <div class="w3-container">
-        <img src="/w3images/jeans1.jpg" style="width:100%">
+        <img src="book4.jpg" style="width:100%">
         <p>Academic writing 2<br><b>$13.99</b></p>
       </div>
     </div>
