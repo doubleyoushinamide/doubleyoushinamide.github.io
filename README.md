@@ -127,21 +127,25 @@
     </p>
   </div>
 
-  <div class="w3-row-padding w3-grayscale">
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="photo1.jpg" alt="Shinamide" style="width:100%">
-      <h3>Shina (M.Sc.)</h3>
-      <p class="w3-opacity">CEO & Founder</p>
-      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="photo3.jpg" alt="W1" style="width:100%">
-      <h3>Oluwasegun (B.Sc.)</h3>
-      <p class="w3-opacity">Editor 1</p>
-      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
-    </div>
-  </div>
+  <div class="w3-container w3-padding-64 w3-center" id="team">
+
+<h2>OUR TEAM</h2>
+<p>Meet the DoubleYou team:</p>
+
+<div class="w3-row"><br>
+
+<div class="w3-quarter">
+  <img src="photo2.jpg" alt="Boss" style="width:45%" class="w3-circle w3-hover-opacity">
+  <h3>Shina</h3>
+  <p>CEO & Founder</p>
+</div>
+
+<div class="w3-quarter">
+  <img src="photo3.jpg" alt="Boss2" style="width:45%" class="w3-circle w3-hover-opacity">
+  <h3>Segun</h3>
+  <p>Snr. Editor</p>
+</div>
+
 
   <!-- Contact Section -->
   <div class="w3-container w3-padding-32" id="contact">
