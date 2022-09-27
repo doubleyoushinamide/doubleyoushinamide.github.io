@@ -149,7 +149,7 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
 
   <!-- Subscribe section -->
   <div class="w3-container w3-black w3-padding-32">
-    <h1>Subscribe here we will contact you soon</h1>
+    <h1>Subscribe here</h1>
     <p>To get special offers and VIP treatment:</p>
     <p><input class="w3-input w3-border" type="text" placeholder="Enter e-mail" style="width:100%"></p>
     <button type="button" class="w3-button w3-red w3-margin-bottom">Subscribe</button>
@@ -231,7 +231,7 @@ function myAccFunc() {
   }
 }
 
-// Click on the "Jeans" link on page load to open the accordion for demo purposes
+// Click on the "Main" link on page load to open the accordion for demo purposes
 document.getElementById("myBtn").click();
 
 
