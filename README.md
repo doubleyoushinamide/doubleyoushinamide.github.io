@@ -23,9 +23,9 @@
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img class= "Unsplash" src="photo2.jpg" alt="Photo by Lasovsky" width="1500" height="800">
+  <img class= "Unsplash" src="photo2.jpg" alt="Photo by Lasovsky" width="1700" height="600">
   <div class="w3-display-middle w3-margin-top w3-center">
-    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>DoubleYOU</b></span> <span class="w3-hide-small w3-text-light-grey"><sup>W</sup></span></h1>
+    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min">We</span> <span class="w3-hide-small w3-text-light-grey"><b>DoubleYou</b></span></h1>
   </div>
 </header>
 
@@ -107,7 +107,7 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="photo3.jpg" alt="Writer1" style="width:100%;border:5px solid #000000; padding:3px; margin:5px">
+      <img src="photo3.jpg" alt="W1" style="width:100%;border:5px solid #000000; padding:3px; margin:5px">
       <h3>Oluwasegun (B.Sc.)</h3>
       <p class="w3-opacity">Editor 1</p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
@@ -140,7 +140,7 @@
     <a class="w3-button w3-large w3-teal" href="javascript:void(0)" title="Google +"><i class="fa fa-google-plus"></i></a>
     <a class="w3-button w3-large w3-teal" href="javascript:void(0)" title="Google +"><i class="fa fa-instagram"></i></a>
     <a class="w3-button w3-large w3-teal w3-hide-small" href="javascript:void(0)" title="Linkedin"><i class="fa fa-linkedin"></i></a>
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a>
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">DoubleYou</a>
   </p>
 
   <div style="position:relative;bottom:100px;z-index:1;" class="w3-tooltip w3-right">
@@ -150,35 +150,8 @@
   </div>
 </footer>
 
-<script>
-// Script for side navigation
-function w3_open() {
-  var x = document.getElementById("mySidebar"); x.style.width = "300px"; x.style.paddingTop = "10%"; x.style.display = "block";
-}
-
-// Close side navigation
-function w3_close() {
-  document.getElementById("mySidebar").style.display = "none";
-}
-
-// Used to toggle the menu on smaller screens when clicking on the menu button
-function openNav() {
-  var x = document.getElementById("navDemo");
-  if (x.className.indexOf("w3-show") == -1) {
-    x.className += " w3-show";
-  } else { 
-    x.className = x.className.replace(" w3-show", "");
-  }
-}
-
 <!-- End page content -->
 </div>
-
-
-<!-- Footer -->
-<footer class="w3-center w3-black w3-padding-16">
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="DoubleYou" target="_blank" class="w3-hover-text-green">DoubleYou</a></p>
-</footer>
 
 </body>
 </html>
