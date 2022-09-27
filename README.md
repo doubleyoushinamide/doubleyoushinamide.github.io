@@ -21,7 +21,7 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
   <div class="w3-container w3-display-container w3-padding-16">
     <i onclick="w3_close()" class="fa fa-remove w3-hide-large w3-button w3-display-topright"></i>
     <h3 class="w3-wide w3-display-container w3-container">
-      <img src="logo.png"><p>DoubleYou<br>Menu</p></h3>
+      <img src="logo.png"><p>DoubleYou</p></h3>
   </div>
   <div class="w3-padding-64 w3-large w3-text-grey" style="font-weight:bold">
     <a href="#" class="w3-bar-item w3-button">Trendy topics</a>
@@ -47,7 +47,7 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
 
 <!-- Top menu on small screens -->
 <header class="w3-bar w3-top w3-hide-large w3-black w3-xlarge">
-  <div class="w3-bar-item w3-padding-24 w3-wide">LOGO</div>
+  <div class="w3-bar-item w3-padding-24 w3-wide"><img src="logo.png"><p>DoubleYou</p></div>
   <a href="javascript:void(0)" class="w3-bar-item w3-button w3-padding-24 w3-right" onclick="w3_open()"><i class="fa fa-bars"></i></a>
 </header>
 
@@ -186,7 +186,7 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
       <div class="w3-col s4 w3-justify">
         <h4>Address</h4>
         <p><i class="fa fa-fw fa-map-marker"></i> DoubleYou, No. 5 Aladodo estate, Otun road, Omu Aran, Kwara State</p>
-        <p><i class="fa fa-whatsapp"></i> +2347052024116</p>
+        <p><i class="fa fa-whatsapp"></i> +234 7052024116</p>
         <p><i class="fa fa-fw fa-envelope"></i> olusholasalau@gmail.com</p>
         <h4>We accept</h4>
         <p><i class="fa fa-bank"></i> Bank transfer</p>
