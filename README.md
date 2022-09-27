@@ -70,25 +70,25 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Offer ONE</div>
-        <img src="/w3images/house5.jpg" alt="House" style="width:100%">
+        <img src="book1.jpg" alt="House" style="width:100%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Offer TWO</div>
-        <img src="/w3images/house2.jpg" alt="House" style="width:100%">
+        <img src="book1.jpg" alt="House" style="width:100%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Offer THREE</div>
-        <img src="/w3images/house3.jpg" alt="House" style="width:100%">
+        <img src="book1.jpg" alt="House" style="width:100%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Offer FOUR</div>
-        <img src="/w3images/house4.jpg" alt="House" style="width:100%">
+        <img src="book1.jpg" alt="House" style="width:100%">
       </div>
     </div>
   </div>
@@ -97,25 +97,25 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Offer FIVE</div>
-        <img src="/w3images/house2.jpg" alt="House" style="width:99%">
+        <img src="book1.jpg" alt="House" style="width:99%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Offer SIX</div>
-        <img src="/w3images/house5.jpg" alt="House" style="width:99%">
+        <img src="book1.jpg" alt="House" style="width:99%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Offer SEVEN</div>
-        <img src="/w3images/house4.jpg" alt="House" style="width:99%">
+        <img src="book1.jpg" alt="House" style="width:99%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Offer EIGHT</div>
-        <img src="/w3images/house3.jpg" alt="House" style="width:99%">
+        <img src="book1.jpg" alt="House" style="width:99%">
       </div>
     </div>
   </div>
