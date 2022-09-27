@@ -100,7 +100,7 @@
 
   <div class="w3-row-padding w3-grayscale">
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="photo1.jpg" alt="Shinamide" style="width:100%">
+      <img src="photo1.jpg" alt="Shinamide" style="width:100%; border:5px solid #000000; padding:3px; margin:5px">
       <h3>Salau Shina (M.Sc.)</h3>
       <p class="w3-opacity">CEO & Founder</p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
