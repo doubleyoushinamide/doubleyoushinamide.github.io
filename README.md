@@ -25,7 +25,7 @@
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
   <img class= "Unsplash" src="photo2.jpg" alt="Photo by Lasovsky" width="1700" height="600">
   <div class="w3-display-middle w3-margin-top w3-center">
-    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min">We</span> <span class="w3-hide-small w3-text-light-grey"><b>DoubleYou</b></span></h1>
+    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>Double</b></span> <span class="w3-hide-small w3-text-light-grey">You</span></h1>
   </div>
 </header>
 
@@ -100,14 +100,14 @@
 
   <div class="w3-row-padding w3-grayscale">
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="photo1.jpg" alt="Shinamide" style="width:100%; border:5px solid #000000; padding:3px; margin:5px">
+      <img src="photo1.jpg" alt="Shinamide" style="width:100%">
       <h3>Shina (M.Sc.)</h3>
       <p class="w3-opacity">CEO & Founder</p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="photo3.jpg" alt="W1" style="width:100%;border:5px solid #000000; padding:3px; margin:5px">
+      <img src="photo3.jpg" alt="W1" style="width:100%">
       <h3>Oluwasegun (B.Sc.)</h3>
       <p class="w3-opacity">Editor 1</p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
