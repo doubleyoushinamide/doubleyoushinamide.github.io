@@ -135,7 +135,7 @@
 <div class="w3-row"><br>
 
 <div class="w3-quarter">
-  <img src="photo2.jpg" alt="Boss" style="width:45%" class="w3-circle w3-hover-opacity">
+  <img src="photo1.jpg" alt="Boss" style="width:45%" class="w3-circle w3-hover-opacity">
   <h3>Shina</h3>
   <p>CEO & Founder</p>
 </div>
