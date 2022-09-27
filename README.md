@@ -94,7 +94,7 @@
   <!-- About Section -->
   <div class="w3-container w3-padding-32" id="about">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">About</h3>
-    <p> DoubleYou ia a multidisciplinary creative studio that seeks to encourage the emergence of the creative charm that exists within the human mind. We read and hear about the efforts of our historical heroes every day. We are grateful for their enormous contributions, which were sufficient to bring about the world we now inhabit. It's up to you and I to create something that future generations will appreciate. The legacy you aspire to leave behind has no boundaries. We are prepared to DOUBLE your productivity and illustrious legacy with our e-books services, thesis writing, and writing consultations. Contact us!
+    <p> DoubleYou is a multidisciplinary creative studio that seeks to encourage the emergence of the creative charm that exists within the human mind. We read and hear about the efforts of our historical heroes every day. We are grateful for their enormous contributions, which were sufficient to bring about the world we now inhabit. It's up to you and I to create something that future generations will appreciate. The legacy you aspire to leave behind has no boundaries. We are prepared to DOUBLE your productivity and illustrious legacy with our e-books services, thesis writing, and writing consultations. Contact us!
     </p>
   </div>
 
