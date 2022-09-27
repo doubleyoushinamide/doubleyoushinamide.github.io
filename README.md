@@ -52,7 +52,7 @@
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img class= "w3-image" src="photo6.png" alt="Photo by Lasovsky" width="1700" height="600">
+  <img class= "w3-image" src="photo6.png" alt="Photo by Lasovsky" width="1800" height="600">
   <div class="w3-display-middle w3-margin-top w3-center">
     <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>Double</b></span> <span class="w3-hide-small w3-text-light-grey">You</span></h1>
   </div>
